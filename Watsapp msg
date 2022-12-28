@@ -1,0 +1,4 @@
+import pywhatkit 
+pywhatkit.sendwhatmsg("+919627681133","hello,this is the message using python",10,59)
+
+print("message sent succesefullly")
